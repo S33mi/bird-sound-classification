@@ -8,7 +8,7 @@ Audio classification of bird species using deep learning on spectrograms.
 - Goal: Build a practical bioacoustics classifier
 
 ## Notebooks
-- `bird_sound_classification.ipynb` → EDA, preprocessing, CNN model, evaluation
+- [`bird_sound_classification.ipynb`](https://github.com/S33mi/bird-sound-classification/blob/main/bird_sound_classification.ipynb) → EDA, preprocessing, CNN model, evaluation
 
 ## Technologies
 Python · Librosa · TensorFlow/Keras · Scikit-learn · Matplotlib
